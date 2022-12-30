@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(p7.jpg);
+    background-size: 100%;
+    
+}
+.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+ h1 {
+    text-align: center;
+    padding: 20px;
+    color: yellow;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid rgba(0,0,0,1);
+    color: white;
+}
+.register form {
+    margin: 40px;
+}
+ .register form label {
+    font-size: 15px;
+    font-style: oblique;
+ }
+
+ input#name {
+    width: 290px;
+    padding: 7px;
+    
+}
+ 
+input#submit{
+    padding: 7px;
+    width: 150px ;
+    background-color: rgba(250 , 100 , 0 );
+    border: 1px solid rgba(250 , 100 , 0 ) ;
+}
+
+
+
