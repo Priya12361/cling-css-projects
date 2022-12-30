@@ -1,0 +1,124 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.parrallax1{
+    width: 100%;
+    height: 600px;
+    background-image: url(p2.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parrallax1 h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color:  rgb(0,100,0);
+    color: white;
+    text-align: center;
+
+}
+
+ .paragraph1{
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color:  rgb(0,100,0);
+    color: white;
+    font-size: 20px;
+}
+
+.parrallax2{
+    width: 100%;
+    height: 600px;
+    background-image: url(p5.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parrallax2 h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+ .paragraph2{
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.parrallax3{
+    width: 100%;
+    height: 600px;
+    background-image: url(p6.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parrallax3 h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color: rgb(12, 46, 128);
+    color: white;
+    text-align: center;
+
+}
+
+ .paragraph3{
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(12, 46, 128);
+    color: white;
+    font-size: 20px;
+}
+
+.parrallax4{
+    width: 100%;
+    height: 600px;
+    background-image: url(p7.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parrallax4 h2 {
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color: yellow;
+    text-align: center;
+
+}
+
+ .paragraph4{
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+
